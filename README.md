@@ -13,6 +13,3 @@ Instagram: https://www.instagram.com/_alanfernds/
 
 E-mail: alanfernandes.mm@gmail.com# JS---Utilizando-o-For
 
-# JS---Exercitando-Arrays
-# JS---Exercitando-Arrays
-# JS---Exercitando-Arrays
